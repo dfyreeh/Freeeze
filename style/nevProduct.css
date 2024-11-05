@@ -1,0 +1,41 @@
+.nevProduct {
+  width: 100%;
+  height: 200px;
+  background-color: #eeebec;
+}
+
+.nevProduct .container {
+  position: relative;
+}
+
+.nevProduct .container img {
+  width: 25%;
+  position: absolute;
+  right: 100px;
+  top: 72px;
+}
+
+.nevProduct .container p,
+h2,
+p {
+  position: relative;
+  top: 25px;
+  padding: 20px 0;
+}
+
+.nevProduct .container .p-1 {
+  font-family: LatoB;
+  color: #7a6666;
+}
+
+.nevProduct .container .p-2 {
+  font-family: Lato-Regula;
+  font-size: 14px;
+  color: #7a6666;
+}
+
+.nevProduct .container h2 {
+  font-family: LatoB;
+  font-size: 30px;
+  color: #e32a62;
+}
