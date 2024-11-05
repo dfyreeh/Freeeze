@@ -1,0 +1,57 @@
+.containerBody {
+  width: 900px;
+  margin: 0 auto;
+  /* border: 1px solid black; */
+  position: relative;
+  
+}
+
+.containerBody img{
+     width: 100%;
+     
+}
+
+.containerBody .div{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    left: 640px;
+    top: 410px;
+     
+
+}
+
+.circle{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    position: absolute;
+
+}
+
+.circle-1{
+    background-color: #c8c10d;
+    position: absolute;
+    top: 5px;
+    right: 20px;
+
+
+}
+
+.circle-2{
+    background-color: #cb3362;
+    opacity: 90%;
+
+}
+
+.containerBody p{
+    font-family: Quicksand-Bold;
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+
+    z-index: 3;
+}

@@ -5,3 +5,35 @@
     font-weight: bold;
     font-style: normal;
 }
+
+@font-face{
+    font-family: Lato-Regula;
+    src: url(../fonts/fonts/Lato-Regular.woff) format('woff'),
+    url(../fonts/fonts/Lato-Regular.woff2) format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: Magra-Bold;
+    src: url(../fonts/fonts/Magra-Bold.woff) format('woff'),
+    url(../fonts/fonts/Magra-Bold.woff2) format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: Quicksand-Bold;
+    src: url(../fonts/fonts/Quicksand-Bold.woff) format('woff'),
+    url(../fonts/fonts/Quicksand-Bold.woff2) format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: RammettoOne-Regular;
+    src: url(../fonts/fonts/RammettoOne-Regular.woff) format('woff'),
+    url(../fonts/fonts/RammettoOne-Regular.woff2) format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
