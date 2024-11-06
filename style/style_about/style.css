@@ -30,15 +30,16 @@
 /* !bloc-1 - bloc-2 */
 
 .bloc-1 {
-  margin: 80px 50px 0 0;
+  margin: 80px 50px 80px 0;
   width: 300px;
-  height: 600px;
+  height: 800px;
   background-color: #efedee;
   float: left;
   text-align: center;
 }
 
 .bloc-1 h2 {
+  font-family: LatoB;
   padding: 20px 0;
   color: #cb3362;
   line-height: 50px;
@@ -47,8 +48,31 @@
 }
 
 .bloc-1 p {
+  font-family: Lato-Regula;
+  font-size: 20px;
   margin: 0 auto;
-  width: 175px;
+  width: 180px;
   padding: 20px 0;
   line-height: 50px;
+  color: #816968;
+}
+
+/* ! bloc-2 */
+
+.bloc-2 {
+  position: relative;
+  top: 32px;
+}
+
+.bloc-2 h2 {
+  font-family: LatoB;
+  color: #cb3362;
+  padding: 20px 0;
+}
+
+.bloc-2 p {
+  font-family: Lato-Regula;
+  line-height: 30px;
+  color: #816968;
+  padding: 20px 0;
 }
