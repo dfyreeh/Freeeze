@@ -1,0 +1,54 @@
+.nevProduct-about {
+  width: 100%;
+  height: 80px;
+  background-color: #c8c10d;
+}
+
+.nevProduct-about .container {
+  text-align: center;
+}
+
+.nevProduct-about .container p {
+  color: rgb(255, 255, 255);
+  font-family: Lato-Regula;
+  font-size: 25px;
+  position: relative;
+  top: 24px;
+}
+
+/*! nevProduct-about-2  */
+
+.nevProduct-about-2 {
+  width: 100%;
+}
+
+.nevProduct-about-2 img {
+  width: 100%;
+  height: 230px;
+}
+
+/* !bloc-1 - bloc-2 */
+
+.bloc-1 {
+  margin: 80px 50px 0 0;
+  width: 300px;
+  height: 600px;
+  background-color: #efedee;
+  float: left;
+  text-align: center;
+}
+
+.bloc-1 h2 {
+  padding: 20px 0;
+  color: #cb3362;
+  line-height: 50px;
+  margin: 0 auto;
+  width: 279px;
+}
+
+.bloc-1 p {
+  margin: 0 auto;
+  width: 175px;
+  padding: 20px 0;
+  line-height: 50px;
+}
