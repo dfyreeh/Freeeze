@@ -17,6 +17,33 @@
   align-items: center;
 }
 
+.nav-header ul li ul li {
+  position: relative;
+}
+
+.nav-header ul li ul li .ul-1 {
+  position: absolute;
+  left: -25px;
+  top: 1px;
+  display: none;
+}
+
+.nav-header li:hover .ul-1 {
+  display: block;
+}
+
+.nav-header ul li ul li .ul-2 {
+  position: absolute;
+  right: -68px;
+  top: 1px;
+  width: 158px;
+  display: none;
+}
+
+.nav-header li:hover .ul-2 {
+  display: block;
+}
+
 .nav-header h1 a {
   display: inline;
   font-family: RammettoOne-Regular;
@@ -41,7 +68,7 @@
 
 .nav-header ul li {
   float: left;
-  padding: 0 15px;
+  padding: 0 25px;
 }
 
 .nav-header ul li a {
