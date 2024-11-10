@@ -1,0 +1,160 @@
+.bloc-iner-1 {
+  width: 614px;
+}
+
+.container {
+  clear: both;
+  position: relative;
+}
+
+.bloc-iner-1 {
+  margin-bottom: 60px;
+  width: 600px;
+}
+
+.bloc-iner-img-1 {
+  float: left;
+}
+
+.bloc-iner-1 h2 {
+  font-family: LatoB;
+  color: #cb3362;
+}
+
+.bloc-iner-1 samp {
+  color: #816968;
+}
+
+.bloc-iner-p-1 {
+    font-family: Lato-Regula;
+  margin-top: 35px;
+  color: #816968;
+}
+
+.bloc-iner-1 a {
+  font-family: LatoB;
+  position: relative;
+  top: 65px;
+  padding: 10px 30px;
+  border: 2px solid rgb(215 202 206);
+  color: rgb(142, 140, 140);
+  transition: all 0.1s linear;
+}
+
+.bloc-iner-1 a:hover {
+  background-color: rgb(215 202 206);
+  color: rgb(0, 0, 0);
+}
+
+.bloc-iner-1 hr {
+  width: 500px;
+  height: 2px;
+  border: none;
+  background-color: rgb(215 202 206);
+  margin-top: 100px;
+}
+
+/* 222 */
+
+.bloc-iner-img-2 {
+  float: left;
+  clear: both;
+  width: 222px;
+  height: 230px;
+}
+
+.bloc-iner-2 {
+  width: 600px;
+  margin-bottom: 200px;
+}
+
+.bloc-iner-2 h2 {
+  font-family: LatoB;
+  color: #cb3362;
+}
+
+.bloc-iner-2 samp {
+  color: #816968;
+}
+
+.bloc-iner-2 a {
+  font-family: LatoB;
+  position: relative;
+  top: 65px;
+  padding: 10px 30px;
+  border: 2px solid rgb(215 202 206);
+  color: rgb(142, 140, 140);
+  transition: all 0.1s linear;
+}
+
+.bloc-iner-2 a:hover {
+  background-color: rgb(215 202 206);
+  color: rgb(0, 0, 0);
+}
+
+.bloc-iner-2 hr {
+  width: 500px;
+  height: 2px;
+  border: none;
+  background-color: rgb(215 202 206);
+  margin-top: 100px;
+}
+/* ?\button */
+
+.button-bottom {
+  position: relative;
+  left: 200px;
+}
+
+/* !bloc-iner-3 */
+
+.bloc-iner-3 {
+  position: absolute;
+  top: 29px;
+  left: 640px;
+  float: right;
+  clear: both;
+  width: 260px;
+  height: 650px;
+  text-align: center;
+  background-color: rgb(239 237 238);
+  margin: 0;
+}
+
+.bloc-iner-3 h2 {
+  font-family: LatoB;
+  color: #cb3362;
+}
+
+.bloc-iner-3 .bloc-iner-h2-3{
+    font-family: Magra-Bold;
+}
+
+.bloc-iner-3 p {
+  font-family: Lato-Regula;
+  color: #816968;
+}
+
+.bloc-iner-p-3 {
+  margin: 0 auto;
+  width: 218px;
+  line-height: 25px;
+  padding: 20px 0;
+}
+
+.bloc-iner-button-3 {
+  font-family: LatoB;
+  position: relative;
+  top: 65px;
+  padding: 10px 30px;
+  border: 2px solid rgb(215 202 206);
+  color: rgb(142, 140, 140);
+  transition: all 0.1s linear;
+  position: relative;
+  top: 85px;
+}
+
+.bloc-iner-button-3:hover {
+  background-color: rgb(215 202 206);
+  color: rgb(0, 0, 0);
+}
