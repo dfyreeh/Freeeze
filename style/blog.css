@@ -26,9 +26,10 @@
 }
 
 .bloc-iner-p-1 {
-    font-family: Lato-Regula;
+  font-family: Lato-Regula;
   margin-top: 35px;
   color: #816968;
+  line-height: 25px;
 }
 
 .bloc-iner-1 a {
@@ -126,8 +127,8 @@
   color: #cb3362;
 }
 
-.bloc-iner-3 .bloc-iner-h2-3{
-    font-family: Magra-Bold;
+.bloc-iner-3 .bloc-iner-h2-3 {
+  font-family: Magra-Bold;
 }
 
 .bloc-iner-3 p {
@@ -136,6 +137,8 @@
 }
 
 .bloc-iner-p-3 {
+  font-family: Lato-Regula;
+  color: #816968;
   margin: 0 auto;
   width: 218px;
   line-height: 25px;
